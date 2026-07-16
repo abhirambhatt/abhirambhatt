@@ -1,4 +1,4 @@
-# Hi, I'm Abhirama
+# Hi, I'm Abhiram
 
 **Java Backend Developer | Spring Boot | Microservices | AWS**
 
