@@ -1,27 +1,18 @@
 # Hi, I'm Abhirama
 
-**Java Backend Developer | Spring Boot | Spring Security | REST APIs | AWS**
+**Java Backend Developer | Spring Boot | Microservices | AWS**
 
-Building secure and scalable backend applications using Java and Spring Boot.
-
-Currently learning Docker, Microservices, CI/CD, and Kubernetes.
+Building secure, scalable, and production-ready backend applications with Java and Spring Boot.
 
 ---
 
 ## About
 
-- Java Backend Development
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- JPA/Hibernate
-- MySQL
-- AWS EC2
-- Docker *(Learning)*
-- Microservices *(Learning)*
-- CI/CD *(Learning)*
-- Kubernetes *(Learning)*
+- Backend Development with Java
+- RESTful API Development
+- Secure Authentication & Authorization
+- Scalable Application Design
+- Cloud Deployment
 
 ---
 
@@ -35,81 +26,40 @@ Currently learning Docker, Microservices, CI/CD, and Kubernetes.
 - Spring Boot
 - Spring MVC
 - Spring Security
+- Spring Data JPA
+- Hibernate
 - REST APIs
-- JPA/Hibernate
+- JWT Authentication
+- Microservices
 
 ### Database
 - MySQL
+- PostgreSQL
+- Redis
 
-### Cloud
+### Testing
+- JUnit 5
+- Mockito
+
+### DevOps & Cloud
+- Docker
 - AWS EC2
+- GitHub Actions
+
+### Monitoring & Logging
+- Spring Boot Actuator
+- Centralized Logging
 
 ### Tools
 - Git
 - GitHub
 - Maven
-- Docker
 - Postman
 - Swagger / OpenAPI
 - DBeaver
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-### NeuroNote AI *(In Progress)*
-
-Spring Boot REST API that transforms educational YouTube videos into AI-powered study material using Gemini API.
-
-- AI Summaries
-- Flashcards
-- Quiz Generation
-- JWT Authentication
-
-### RouteSphere
-
-RESTful logistics and fleet management backend application.
-
-**Live Demo**
-
-https://project.routesphere.abhiram.tech
-
-### Logistics & Shipment Tracking System
-
-Spring Boot backend application for shipment creation, tracking and delivery management.
-
-**Live Demo**
-
-https://project.trackingsystem.abhiram.tech
-
-### Ecommerce Backend System
-
-RESTful backend application with:
-
-- JWT Authentication
-- Product Management
-- Shopping Cart
-- Orders
-- Swagger / OpenAPI
-
----
-
-## Currently Learning
-
-- Docker
-- Microservices
-- GitHub Actions
-- CI/CD
-- Kubernetes
-
----
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abhiramaab/abhiramaab/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+<!-- GitHub Stats -->
