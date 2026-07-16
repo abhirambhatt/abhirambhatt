@@ -57,5 +57,3 @@ Building secure, scalable, and production-ready backend applications with Java a
 - Postman
 - Swagger / OpenAPI
 - DBeaver
-
----
