@@ -59,7 +59,3 @@ Building secure, scalable, and production-ready backend applications with Java a
 - DBeaver
 
 ---
-
-## GitHub Stats
-
-<!-- GitHub Stats -->
