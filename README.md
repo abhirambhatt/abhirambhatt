@@ -1,59 +1,74 @@
-# Hi, I'm Abhiram
+<div align="center">
 
-**Java Backend Developer | Spring Boot | Microservices | AWS**
+# Abhiram
 
-Building secure, scalable, and production-ready backend applications with Java and Spring Boot.
+Building backend systems and AI applications.
+
+Currently building **Synoptiq**.
+
+<p align="center">
+  <a href="https://abhiram.tech">portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/abhiramaab">linkedin</a>
+  ·
+  <a href="https://x.com/abhiramcodes">x</a>
+</p>
+
+</div>
 
 ---
 
-## About
+## Focus
 
-- Backend Development with Java
-- RESTful API Development
-- Secure Authentication & Authorization
-- Scalable Application Design
-- Cloud Deployment
+```
+Java
+Spring Boot
+PostgreSQL
+REST APIs
+JWT
+OAuth 2.0
+Docker
+AWS
+Linux
+AI Integration
+```
 
 ---
 
-## Tech Stack
+## Currently Building
 
-### Languages
-- Java
-- SQL
+### Synoptiq
 
-### Backend
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JWT Authentication
+An AI application designed to make information easier to organize, search and interact with.
+
+Current features include:
+
+- Google Authentication
+- AI Chat
+- Gmail Integration
+- Email Summaries
+- Authentication & Authorization
+
+---
+
+## Currently Learning
+
+- System Design
+- Kubernetes
 - Microservices
+- Appwrite
+- Distributed Systems
 
-### Database
-- MySQL
-- PostgreSQL
-- Redis
+---
 
-### Testing
-- JUnit 5
-- Mockito
+## Philosophy
 
-### DevOps & Cloud
-- Docker
-- AWS EC2
-- GitHub Actions
+```
+Write clean code.
 
-### Monitoring & Logging
-- Spring Boot Actuator
-- Centralized Logging
+Understand the system.
 
-### Tools
-- Git
-- GitHub
-- Maven
-- Postman
-- Swagger / OpenAPI
-- DBeaver
+Ship consistently.
+
+Keep improving.
+```
