@@ -2,16 +2,16 @@
 
 # Abhiram
 
-Building backend systems and AI applications.
+Building backend systems and AI-powered applications.
 
 Currently building **Synoptiq**.
 
 <p align="center">
-  <a href="https://abhiram.tech">portfolio</a>
+  <a href="https://abhiram.tech">Portfolio</a>
   ·
-  <a href="https://linkedin.com/in/abhiramaab">linkedin</a>
+  <a href="https://linkedin.com/in/abhiramaab">LinkedIn</a>
   ·
-  <a href="https://x.com/abhiramcodes">x</a>
+  <a href="https://x.com/abhiramcodes">X</a>
 </p>
 
 </div>
@@ -20,7 +20,7 @@ Currently building **Synoptiq**.
 
 ## Focus
 
-```
+```text
 Java
 Spring Boot
 PostgreSQL
@@ -35,35 +35,48 @@ AI Integration
 
 ---
 
-## Currently Building
+## Featured Projects
 
 ### Synoptiq
 
-An AI application designed to make information easier to organize, search and interact with.
+An AI-powered productivity platform that helps users organize information, search across connected services, manage emails, and automate workflows.
 
 Current features include:
 
 - Google Authentication
 - AI Chat
 - Gmail Integration
+- Google Calendar Integration
 - Email Summaries
 - Authentication & Authorization
+
+---
+
+### RouteSphere
+
+A Spring Boot backend application for route and logistics management with secure REST APIs, JWT authentication, role-based access control, and PostgreSQL integration.
+
+---
+
+### WorkBoard
+
+A Spring Boot project management backend for managing companies, departments, employees, projects, and tasks using REST APIs, Spring Security, JPA, and PostgreSQL.
 
 ---
 
 ## Currently Learning
 
 - System Design
-- Kubernetes
 - Microservices
-- Appwrite
+- Kubernetes
 - Distributed Systems
+- AI Agent Architectures
 
 ---
 
 ## Philosophy
 
-```
+```text
 Write clean code.
 
 Understand the system.
