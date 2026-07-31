@@ -9,9 +9,9 @@ Currently building **Synoptiq**.
 <p align="center">
   <a href="https://abhiram.tech">Portfolio</a>
   ·
-  <a href="https://linkedin.com/in/abhiramaab">LinkedIn</a>
+  <a href="https://linkedin.com/in/ababhirama">LinkedIn</a>
   ·
-  <a href="https://x.com/abhiramcodes">X</a>
+  <a href="https://x.com/buildwithabhii">X</a>
 </p>
 
 </div>
