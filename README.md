@@ -1,10 +1,16 @@
 <div align="center">
 
-# Abhiram
+# Abhirama
 
-Building backend systems and AI-powered applications.
 
-Currently building **Synoptiq**.
+Building scalable backend systems,
+REST APIs,
+and AI-powered applications.
+
+Currently focused on Spring Boot,
+Distributed Systems,
+Cloud,
+and AI Engineering.
 
 <p align="center">
   <a href="https://abhiram.tech">Portfolio</a>
@@ -18,7 +24,7 @@ Currently building **Synoptiq**.
 
 ---
 
-## Focus
+## Core Tech Stack
 
 ```text
 Java
