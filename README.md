@@ -3,14 +3,10 @@
 # Abhirama
 
 
-Building scalable backend systems,
-REST APIs,
-and AI-powered applications.
+Building scalable backend systems for cloud and AI applications.
 
-Currently focused on Spring Boot,
-Distributed Systems,
-Cloud,
-and AI Automations.
+Currently focused on
+Distributed Systems • Cloud • AI Engineering
 
 <p align="center">
   <a href="https://abhiram.tech">Portfolio</a>
