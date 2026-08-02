@@ -10,7 +10,7 @@ and AI-powered applications.
 Currently focused on Spring Boot,
 Distributed Systems,
 Cloud,
-and AI Engineering.
+and AI Automations.
 
 <p align="center">
   <a href="https://abhiram.tech">Portfolio</a>
